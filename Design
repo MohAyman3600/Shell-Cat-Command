@@ -1,0 +1,9 @@
+The design process works as follow :-
+	Firstly, I searched for the cat program and how it is implemented.
+	Secondly, I understanded how arguments is passed to the main function.
+	Thirdly, I gained the required knowledge to use the read,write and perror functions.
+	Fourthly, I started writing the code as follow :-
+		- I thought how to seperate between the two cases when the program read string from user input or from file.
+		- I used if statement on the argumrnts passed to the main to seperate between the two cases.
+		- I used for loop to loop through the files and while loop to loop through the input text.
+		- I used perror in comination with If else statments to check whether file name is correct or not.

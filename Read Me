@@ -1,0 +1,9 @@
+In order to run the script :-
+- use system call "make mycat".
+- Then, to run the script using user input :-
+	- Type "./mycat" then press Enter.
+	- Enter the text you want to use, then press Enter.
+- To run the script using input from file :-
+	- Type "./mycat filename". then press Enter.
+- To use the grep command :-
+	- Type "./mycat <filename> | grep string" then press Enter.
